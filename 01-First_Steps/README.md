@@ -67,7 +67,7 @@ To access the documentation, you can either:
 
 ### Hello World
 
-In the resources folder, you should find a file named `helloworld.c`. Open it and examine its contents:
+In this folder, you should find a file named `helloworld.c`. Open it and examine its contents:
 
 ```c
 #include <stdio.h>
