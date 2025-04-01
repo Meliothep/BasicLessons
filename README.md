@@ -1,4 +1,4 @@
-# C Programming Fundamentals
+# Programming Fundamentals
 
 A collection of lessons and exercises for first-year computer science students learning programming concepts using C.
 
