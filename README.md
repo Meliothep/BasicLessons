@@ -23,7 +23,3 @@ git clone https://github.com/Meliothep/BasicLessons.git
 ```
 
 Requires a C compiler (GCC recommended) and basic understanding of using Git.
-
-## License
-
-[Your license information]
